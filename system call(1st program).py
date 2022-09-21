@@ -1,3 +1,3 @@
 import os
-cmd='time'
+cmd='date'
 os.system(cmd)
